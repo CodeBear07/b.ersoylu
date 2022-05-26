@@ -39,9 +39,9 @@ h3 {
 }
 
 #laptop-icon {
-  position: absolute;
-  top: 220px;
-  left: 410px;
+  position: relative;
+  right: 300px;
+  bottom: 230px;
 }
 
 #programmer-icon {
